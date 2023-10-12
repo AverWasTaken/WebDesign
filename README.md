@@ -21,5 +21,4 @@ Made with ❤️ by Jacob.
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-energy-drinks.svg)](https://forthebadge.com)
-
-![Uploading<svg xmlns="http://www.w3.org/2000/svg" width="138.765625" height="35" viewBox="0 0 138.765625 35"><rect width="41.34375" height="35" fill="#7ed321"/><rect x="41.34375" width="97.421875" height="35" fill="#00a67e"/><text x="20.671875" y="17.5" font-size="12" font-family="'Roboto', sans-serif" fill="#FFFFFF" text-anchor="middle" alignment-baseline="middle" letter-spacing="2">2%</text><text x="90.0546875" y="17.5" font-size="12" font-family="'Montserrat', sans-serif" fill="#ffffff" text-anchor="middle" font-weight="900" alignment-baseline="middle" letter-spacing="2">CHATGPT</text></svg> 2%-chatgpt-.svg…]()
+![2%-chatgpt-](https://github.com/AverWasTaken/WebDesign/assets/66864263/ef59602b-05e9-4518-8c68-6afec47a68fc)
