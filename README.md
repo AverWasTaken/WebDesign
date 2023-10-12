@@ -1,4 +1,4 @@
-![2%-chatgpt-](https://github.com/AverWasTaken/WebDesign/assets/66864263/ea09b996-17ef-4661-89de-2143083eef0e)# Web Design Repo
+# Web Design Repo
 
 Hello! Welcome to my repository where I showcase the HTML/CSS work I've done during my web design class.
 
